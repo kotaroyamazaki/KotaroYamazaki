@@ -1,8 +1,7 @@
 # Hi there 👋
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=KotaroYamazaki&count_private=true&layout=compact&theme=monokai)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=KotaroYamazaki&count_private=true&layout=compact)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=KotaroYamazaki&count_private=true&theme=monokai&layout=compact)
 
 ## Certifications
 
