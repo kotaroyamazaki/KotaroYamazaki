@@ -1,5 +1,10 @@
 # Hi there 👋
 
+## 💡 What I’m Working On
+⚙️ Building robust back-end systems with Go
+🔭 Developing innovative mobile apps using Flutter  
+💻 Exploring AI and its applications in everyday tools  
+
 ---
 
 ## 🌟 **My Apps**
@@ -30,12 +35,6 @@ Earned through mastering data solutions and cloud architecture.
 
 ---
 
-## 💡 What I’m Working On
-🔭 Developing innovative mobile apps using Flutter  
-💻 Exploring AI and its applications in everyday tools  
-⚙️ Building robust back-end systems with Go  
-
----
 
 ## 📫 **Connect with Me**
 Feel free to reach out or connect with me through:  
