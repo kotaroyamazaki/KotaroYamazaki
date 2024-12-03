@@ -1,9 +1,10 @@
 # Hi there 👋
 
 ## 💡 What I’m Working On
-⚙️ Building robust back-end systems with Go
-🔭 Developing innovative mobile apps using Flutter  
-💻 Exploring AI and its applications in everyday tools  
+
+- ⚙️ Building robust back-end systems with Go
+- 🔭 Developing innovative mobile apps using Flutter  
+- 💻 Exploring AI and its applications in everyday tools  
 
 ---
 
